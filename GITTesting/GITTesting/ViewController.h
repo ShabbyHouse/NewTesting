@@ -7,9 +7,19 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ProtocolDelegate.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <ProtocolDelegate>
 
+
+@end
+
+@implementation ViewController
+
+- (void) error
+{
+    
+}
 
 @end
 
