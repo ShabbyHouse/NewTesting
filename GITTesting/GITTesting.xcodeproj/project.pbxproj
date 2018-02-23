@@ -39,6 +39,7 @@
 		3B3A0890204011E7000FCE3F /* ProtocolDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProtocolDelegate.h; sourceTree = "<group>"; };
 		3B7CD39F20405B6F00147AC0 /* MyProtocolDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyProtocolDelegate.h; sourceTree = "<group>"; };
 		3B7CD3A020405BB500147AC0 /* ProtocolInterface.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProtocolInterface.h; sourceTree = "<group>"; };
+		3B7CD3A12040613F00147AC0 /* AnotherTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnotherTest.h; sourceTree = "<group>"; };
 		3BE1562E203E574F00E5352A /* GITTesting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GITTesting.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BE15631203E574F00E5352A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3BE15632203E574F00E5352A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -119,6 +120,7 @@
 				3B3A0890204011E7000FCE3F /* ProtocolDelegate.h */,
 				3B7CD39F20405B6F00147AC0 /* MyProtocolDelegate.h */,
 				3B7CD3A020405BB500147AC0 /* ProtocolInterface.h */,
+				3B7CD3A12040613F00147AC0 /* AnotherTest.h */,
 			);
 			path = GITTesting;
 			sourceTree = "<group>";
